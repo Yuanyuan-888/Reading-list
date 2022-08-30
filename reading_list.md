@@ -9,3 +9,7 @@ Unsupervised Speech Domain Adaptation Based on Disentangled Representation Learn
 FUNDAMENTAL FREQUENCY FEATURE NORMALIZATION AND DATA AUGMENTATION FOR CHILD SPEECH RECOGNITION (Apply on Mel scale)
 
 Low Resource German ASR with Untranscribed Data Spoken by Non-native Children - INTERSPEECH 2021 Shared Task SPAPL System
+
+# Others 
+## Compacted CTC
+CTC Variations Through New WFST Topologies
