@@ -13,3 +13,5 @@ Low Resource German ASR with Untranscribed Data Spoken by Non-native Children - 
 # Others 
 ## Compacted CTC
 CTC Variations Through New WFST Topologies
+## Conformer for ASR
+Conformer: Convolution-augmented Transformer for Speech Recognition
