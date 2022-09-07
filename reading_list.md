@@ -15,3 +15,7 @@ Low Resource German ASR with Untranscribed Data Spoken by Non-native Children - 
 CTC Variations Through New WFST Topologies
 ## Conformer for ASR
 Conformer: Convolution-augmented Transformer for Speech Recognition
+
+# Personalized speech recognition
+## Google
+PERSONALIZED SPEECH RECOGNITION ON MOBILE DEVICES
