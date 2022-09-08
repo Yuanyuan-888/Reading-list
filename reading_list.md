@@ -18,4 +18,4 @@ Conformer: Convolution-augmented Transformer for Speech Recognition
 
 # Personalized speech recognition
 ## Google
-PERSONALIZED SPEECH RECOGNITION ON MOBILE DEVICES
+PERSONALIZED SPEECH RECOGNITION ON MOBILE DEVICES (language model personalization)
